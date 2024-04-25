@@ -5,9 +5,9 @@ This is a display of sample websites that I have made using CSS and HTML.
 <p>PROJECTS:</p>
 
 <br>
-<a href="">Movie Site</a>
+<a href="https://github.com/rsantos15/htmlcss/blob/github-assignment/bootstrap4_project/index.html">Movie Site</a>
 <br>
-<a href="">My Portfolio</a>
+<a href="https://github.com/rsantos15/htmlcss/blob/github-assignment/portfolio/index.html">My Portfolio</a>
 <br>
 <br>
 <p>Space Station Site:
