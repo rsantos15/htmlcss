@@ -1,5 +1,4 @@
-# htmlcss
-<h2>HTML and CSS Projects</h2>h>
+<h2>HTML and CSS Projects</h2>
 
 This is a display of sample websites that I have made using CSS and HTML.
 
