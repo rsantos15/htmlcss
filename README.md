@@ -8,7 +8,8 @@ This is a display of sample websites that I have made using CSS and HTML.
 <a href="">Movie Site</a>
 <br>
 <a href="">My Portfolio</a>
-
+<br>
+<br>
 <p>Space Station Site:
 This site is an example home page for a Space Travel Company. Styled using css.</p>
 
