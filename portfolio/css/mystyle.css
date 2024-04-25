@@ -22,12 +22,12 @@ h1:hover {
 
 /* Styling for portfolio title text */
 .white-text {
-    color: #fff; /* This is used to change the color of the portfolio title text */
+    color: #8FBC8F; /* This is used to change the color of the portfolio title text */
 }
 
 /* Paragraph elements */
 p {
-    font-family: Perpetua, Rockwell Extra Bold;
+    font-family: Consolas, Consolas Extra Bold;
     text-align: justify; /* Justify text within paragraph elements */
     letter-spacing: 1px; /* This expands the text slightly */
     font-size: 20px;
@@ -37,7 +37,7 @@ p {
 
 /* Paragraph element hover effect */
 p:hover {
-	color: #00004d;	/* Color changes when paragraph elements are hovered over */
+	color: #556B2F;	/* Color changes when paragraph elements are hovered over */
     transition: transform 1s; /* This makes the transform effect last 1 second */
 	transform: scale(1.01); /* This makes the paragraphs increase slightly in size when hovered over */
 }
@@ -49,13 +49,13 @@ p:hover {
 
 /* Center class hover effect - This only affects the quote, github link, and footer */
 .center:hover {
-    transition: transform 2s; /* This makes the transform effect last 2 seconds */
+    transition: transform 1s; /* This makes the transform effect last 2 seconds */
     transform: scale(1.1); /* This makes the elements with class "center" increase in size by 1.1 when hovered over */
 }
 
 /* Anchor elements */
 a {
-    color: blue; /* This ensures all links are blue */
+    color: green; /* This ensures all links are blue */
 }
 
 /* Quotation elements */
@@ -100,7 +100,7 @@ footer {
 /***** NAVBAR STYLING *****/
 .Navbar {
     overflow: hidden; /* This ensures that any content that overflows beyond the boundary of our nav bar is not displayed */
-    background-color: black; /* This colors the navbar black */
+    background-color: #556B2F; /* This colors the navbar black */
     position: fixed; /* This keeps the navbar at the top of the screen as we scroll */
     top: 0; /* This ensures no space is displayed above the navbar */
     width: 100%; /* This makes the navbar span the entire width of the page */
@@ -177,7 +177,7 @@ footer {
 /* Texts over the video */
 .Video_Text {
     background: rgba(0, 0, 0, 0.5); /* This provides a semi-transparent background for the text to sit over */
-    color: white; /* Makes the font color white */
+    color: gray; /* Makes the font color white */
     width: 100%; /* Ensures the video-text container fills the width of the video */
     padding: 20px; /* This adds padding around the video-text container so that the background goes slightly beyond the text */
     position: relative; /* This sets the text relative to its normal positioning, allowing us to use the animation below */
@@ -219,7 +219,7 @@ footer {
     padding: 10px;
     padding-top: 1.9%;
     height: 400px;
-    background-color: #4d4d4d;
+    background-color: #556B2F;
 }
 
 /* This class is applied to the columns in the final row, overriding the height and padding to provide more room for the contact form  while keeping the rest of the formatting from Column_1 or Column_2 */
