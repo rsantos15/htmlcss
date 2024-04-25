@@ -1,15 +1,16 @@
 # htmlcss
-HTML and CSS Projects
+<h2>HTML and CSS Projects</h2>h>
 
 This is a display of sample websites that I have made using CSS and HTML.
 
-PROJECTS:
+<p>PROJECTS:</p>
 
-Space Station Site 
-Movie Site
+<a href="">Space Station Site</a>
+<br>
+<a href="">Movie Site</a>
 
-Space Station Site:
-This site is an example home page for a Space Travel Company. Styled using css.
+<p>Space Station Site:
+This site is an example home page for a Space Travel Company. Styled using css.</p>
 
-Movie Site:
-Movie Theater Homepage using Bootstrap 4. It contains many Bootstrap Components including jumbotron, navbar, form cards etc.
+<p>Movie Site:
+Movie Theater Homepage using Bootstrap 4. It contains many Bootstrap Components including jumbotron, navbar, form cards etc.</p>
